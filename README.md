@@ -19,9 +19,9 @@ Hi 👋 I'm Ching
 
 I'm a full stack developer and lawyer. I have a keen eye for detail and I'm passionate about working at the intersection of development and design that marries form and function.
 
-  🌍  I'm currently based in London, UK
-  🤝  I'm open to collaborating on both front and back end projects
-  🔭 I’m currently working on <a href="https://github.com/coderomantics/Picky">Picky</a>, a voting party game to play with friends
+-  🌍  I'm currently based in London, UK
+-  🤝  I'm open to collaborating on both front and back end projects
+-  🔭 I’m currently working on <a href="https://github.com/coderomantics/Picky">Picky</a>, a voting party game to play with friends
 ### Skills
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
