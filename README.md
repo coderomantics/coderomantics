@@ -21,7 +21,7 @@ I'm a full stack developer and lawyer. I have a keen eye for detail and I'm pass
 
 -  🌍  I'm currently based in London, UK
 -  🤝  I'm open to collaborating on both front and back end projects
--  🔭 I’m currently working on <a href="https://github.com/coderomantics/Picky">Picky</a>, a voting party game to play with friends
+
 ### Skills
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -39,8 +39,3 @@ I'm a full stack developer and lawyer. I have a keen eye for detail and I'm pass
                                 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
                     </p>
                     
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/coderomantics" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderomantics&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
